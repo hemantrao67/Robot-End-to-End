@@ -13,7 +13,7 @@ Test Teardown  common.End web test
 # robot -d Results Tests\EndToEnd\End_To_End.robot
 *** Test Cases ***
 Should be able to access both the sites
-    [Documentation]  Checking if "Landing" page is accessible
+    [Documentation]  Checking if "Landing" page is accessible [change]
     [Tags]  current
 
     Front_OfficeAPP.Go to landing page

@@ -20,7 +20,7 @@ Should be able to access "Team" page
     Front_OfficeAPP.Go to "Team" page
 
 "Team" page should match requirements
-    [Documentation]  Team page has a correct header
+    [Documentation]  Team page has a correct header [change]
     [Tags]  current
 
     Front_OfficeAPP.Go to landing page
