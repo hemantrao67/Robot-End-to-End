@@ -22,5 +22,7 @@ Should be able to access both the sites
     sleep  2 s
 
 *** Keywords ***
+Feature 2 test
+    log  doing feature 2
 Feature 1 test
     log  doing feature 1
